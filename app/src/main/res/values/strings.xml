@@ -7,7 +7,7 @@
     <string name="label_accuracy">Accuracy: %s</string>
     <string name="label_timestamp">Timestamp: %s</string>
     <string name="status_ready">Status: Ready</string>
-    <string name="status_loading">Status: Getting location...</string>
+    <string name="status_loading">Status: Getting location&#8230;</string>
     <string name="status_permission_denied">Status: Permission Denied</string>
     <string name="status_location_unavailable">Status: Location Unavailable</string>
     <string name="status_error">Status: Error occurred</string>
